@@ -1,0 +1,3 @@
+#!/usr/bin/env ptyhon
+# coding: utf8
+print '合理'
